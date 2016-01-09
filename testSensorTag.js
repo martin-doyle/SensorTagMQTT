@@ -2,10 +2,6 @@
 var async = require('async');
 var SensorTag = require('sensortag');
 
-// SensorTag UUIDs
-var devices = ['c4be84727309',
-  'c4be8471a68d'];
-
 // Timeout Variables
 // Discovering is limited to timeoutVar
 var timeoutVar = 60000;
