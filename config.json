@@ -1,0 +1,13 @@
+{
+  "SensorTags" : ["c4be84727309","c4be8471a68d","c4be84716607"],
+  "Timeout" : 60000,
+  "Interval" : 300000,
+  "EnableTimeout" : 5000,
+  "DisbaleTimeout" : 500,
+  "MQTTHost" : "localhost",
+  "MQTTPort" : 1883,
+  "TemperatureEnabled" : true,
+  "HumidityEnabled" : true,
+  "BarometricEnabled" : true,
+  "LuxometerEnabled" : true
+}
