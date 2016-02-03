@@ -1,6 +1,6 @@
 {
   "name": "SensorTag_Status",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Show sensortag CC2650STK data in a webbrowser",
   "main": "index.js",
   "scripts": {
